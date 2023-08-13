@@ -5,11 +5,8 @@ const App = () => {
   return (
    <>
   {
-    
   <Card/>
   }
-  
-  
   </>
   
   )
